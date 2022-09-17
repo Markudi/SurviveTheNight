@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4f9a0e1-bedf-4f6b-849d-b7fba2919b5a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SurviveTheNight/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SurviveTheNight/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FPS/Art/Materials/Weapons/WeaponDisc.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FPS/Art/Materials/Weapons/WeaponDisc.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FPS/Prefabs/Projectiles/Projectile_Blaster.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FPS/Prefabs/Projectiles/Projectile_Blaster.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/FPS/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FPS/Scenes/MainScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ModAssets/Materials/BillboardMaterials/Billboard Content.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ModAssets/Materials/BillboardMaterials/Billboard Content.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ModAssets/Materials/BillboardMaterials/Billboard Frame.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ModAssets/Materials/BillboardMaterials/Billboard Frame.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ModAssets/Materials/Totems/M_StatueWall.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ModAssets/Materials/Totems/M_StatueWall.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Teleport.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Teleport.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Teleport.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Teleport.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.learn.iet-framework/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.learn.iet-framework/Settings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +16,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BarrelExplosion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DoorOpener.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2Es759rF4hdEFAUowW4scTQKukz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -77,6 +82,7 @@
       <workItem from="1663372265996" duration="2030000" />
       <workItem from="1663376510949" duration="1552000" />
       <workItem from="1663378544984" duration="2622000" />
+      <workItem from="1663381290634" duration="7479000" />
     </task>
     <servers />
   </component>

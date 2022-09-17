@@ -11,6 +11,13 @@ public class Teleport : MonoBehaviour
     public float teleportCooldown = 3f;
     public bool teleportReady = true;
 
+    private AudioSource myAudioSource;
+
+
+    private void Start()
+    {
+        myAudioSource = GetComponent<AudioSource>();
+    }
 
     private void Update()
     {
@@ -30,6 +37,7 @@ public class Teleport : MonoBehaviour
     {
         if (other.gameObject.name == "Player" && teleportReady)
         {
+            myAudioSource.Play();
             other.gameObject.transform.position = teleportLocation.transform.position;
             teleportLocation.GetComponent<Teleport>().teleportCooldown = 3f;
             teleportLocation.GetComponent<Teleport>().teleportReady = false;
